@@ -4,7 +4,8 @@
 /********** Setup ***********/
 @import 'partials/setup/variables';
 @import 'partials/setup/reset';
-@import 'partials/setup/fonts';
-@import 'partials/setup/general';
 
 /***** Site Components ******/
+
+@import 'partials/header';
+@import 'partials/content';
